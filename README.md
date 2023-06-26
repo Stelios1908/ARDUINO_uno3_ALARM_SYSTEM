@@ -1,2 +1,5 @@
 # ARDUINO_uno3_ALARM_SYSTEM
-Alarm system with two arduino uno3
+
+One arduino for the keyboard and one that controls the sensors and indicator lights.
+
+Between them they communicate with relay contacts
